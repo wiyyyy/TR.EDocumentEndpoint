@@ -4,70 +4,70 @@ VisualStudioVersion = 17.0.31423.177
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Source", "Source", "{719809C2-A551-4C4A-9EFD-B10FB5E35BC0}"
 	ProjectSection(SolutionItems) = preProject
-		TR.EDocumentEndpoint\Source\Directory.Build.props = TR.EDocumentEndpoint\Source\Directory.Build.props
+		\Source\Directory.Build.props = \Source\Directory.Build.props
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F20E2797-D1E3-4321-91BB-FAE54954D2A0}"
 	ProjectSection(SolutionItems) = preProject
-		TR.EDocumentEndpoint\.editorconfig = TR.EDocumentEndpoint\.editorconfig
-		TR.EDocumentEndpoint\.gitattributes = TR.EDocumentEndpoint\.gitattributes
-		TR.EDocumentEndpoint\.gitignore = TR.EDocumentEndpoint\.gitignore
-		TR.EDocumentEndpoint\build.cake = TR.EDocumentEndpoint\build.cake
-		TR.EDocumentEndpoint\Directory.Build.props = TR.EDocumentEndpoint\Directory.Build.props
-		TR.EDocumentEndpoint\Directory.Build.targets = TR.EDocumentEndpoint\Directory.Build.targets
-		TR.EDocumentEndpoint\dotnet-tools.json = TR.EDocumentEndpoint\dotnet-tools.json
-		TR.EDocumentEndpoint\global.json = TR.EDocumentEndpoint\global.json
-		TR.EDocumentEndpoint\Key.snk = TR.EDocumentEndpoint\Key.snk
+		\.editorconfig = \.editorconfig
+		\.gitattributes = \.gitattributes
+		\.gitignore = \.gitignore
+		\build.cake = \build.cake
+		\Directory.Build.props = \Directory.Build.props
+		\Directory.Build.targets = \Directory.Build.targets
+		\dotnet-tools.json = \dotnet-tools.json
+		\global.json = \global.json
+		\Key.snk = \Key.snk
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentation", "{7EDFA103-DB69-4C88-9DE4-97ADBF8253A1}"
 	ProjectSection(SolutionItems) = preProject
-		TR.EDocumentEndpoint\LICENSE.md = TR.EDocumentEndpoint\LICENSE.md
-		TR.EDocumentEndpoint\README.md = TR.EDocumentEndpoint\README.md
+		\LICENSE.md = \LICENSE.md
+		\README.md = \README.md
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{E1B24F25-B8A4-46EE-B7EB-7803DCFC543F}"
 	ProjectSection(SolutionItems) = preProject
-		TR.EDocumentEndpoint\Tests\.editorconfig = TR.EDocumentEndpoint\Tests\.editorconfig
-		TR.EDocumentEndpoint\Tests\Directory.Build.props = TR.EDocumentEndpoint\Tests\Directory.Build.props
+		\Tests\.editorconfig = \Tests\.editorconfig
+		\Tests\Directory.Build.props = \Tests\Directory.Build.props
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{26F71F5B-2940-4FB0-9681-A76060CBCEF9}"
 	ProjectSection(SolutionItems) = preProject
-		TR.EDocumentEndpoint\Images\Banner.png = TR.EDocumentEndpoint\Images\Banner.png
-		TR.EDocumentEndpoint\Images\Hero.png = TR.EDocumentEndpoint\Images\Hero.png
-		TR.EDocumentEndpoint\Images\Icon.png = TR.EDocumentEndpoint\Images\Icon.png
+		\Images\Banner.png = \Images\Banner.png
+		\Images\Hero.png = \Images\Hero.png
+		\Images\Icon.png = \Images\Icon.png
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ISSUE_TEMPLATE", "ISSUE_TEMPLATE", "{566DF0E2-1288-4083-9B55-4C8B69BB1432}"
 	ProjectSection(SolutionItems) = preProject
-		TR.EDocumentEndpoint\.github\ISSUE_TEMPLATE\BUG_REPORT.yml = TR.EDocumentEndpoint\.github\ISSUE_TEMPLATE\BUG_REPORT.yml
-		TR.EDocumentEndpoint\.github\ISSUE_TEMPLATE\FEATURE_REQUEST.yml = TR.EDocumentEndpoint\.github\ISSUE_TEMPLATE\FEATURE_REQUEST.yml
+		\.github\ISSUE_TEMPLATE\BUG_REPORT.yml = \.github\ISSUE_TEMPLATE\BUG_REPORT.yml
+		\.github\ISSUE_TEMPLATE\FEATURE_REQUEST.yml = \.github\ISSUE_TEMPLATE\FEATURE_REQUEST.yml
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".github", ".github", "{0555C737-CE4B-4C78-87AB-6296E1E32D01}"
 	ProjectSection(SolutionItems) = preProject
-		TR.EDocumentEndpoint\.github\CODE_OF_CONDUCT.md = TR.EDocumentEndpoint\.github\CODE_OF_CONDUCT.md
-		TR.EDocumentEndpoint\.github\CONTRIBUTING.md = TR.EDocumentEndpoint\.github\CONTRIBUTING.md
-		TR.EDocumentEndpoint\.github\PULL_REQUEST_TEMPLATE.md = TR.EDocumentEndpoint\.github\PULL_REQUEST_TEMPLATE.md
-		TR.EDocumentEndpoint\.github\SECURITY.md = TR.EDocumentEndpoint\.github\SECURITY.md
+		\.github\CODE_OF_CONDUCT.md = \.github\CODE_OF_CONDUCT.md
+		\.github\CONTRIBUTING.md = \.github\CONTRIBUTING.md
+		\.github\PULL_REQUEST_TEMPLATE.md = \.github\PULL_REQUEST_TEMPLATE.md
+		\.github\SECURITY.md = \.github\SECURITY.md
 	EndProjectSection
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TR.EDocumentEndpoint", "TR.EDocumentEndpoint\Source\TR.EDocumentEndpoint\TR.EDocumentEndpoint.csproj", "{A2CB07C6-CD9E-43D5-A38C-917AD97FCF85}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TR.EDocumentEndpoint", "Source\TR.EDocumentEndpoint\TR.EDocumentEndpoint.csproj", "{A2CB07C6-CD9E-43D5-A38C-917AD97FCF85}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TR.EDocumentEndpoint.Test", "TR.EDocumentEndpoint\Tests\TR.EDocumentEndpoint.Test\TR.EDocumentEndpoint.Test.csproj", "{BB1711E0-CA05-4A20-B45A-19F25D586E9C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TR.EDocumentEndpoint.Test", "Tests\TR.EDocumentEndpoint.Test\TR.EDocumentEndpoint.Test.csproj", "{BB1711E0-CA05-4A20-B45A-19F25D586E9C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".github", ".github", "{EFE1E5ED-D337-4874-82EC-D9FA0BC7D3AB}"
 	ProjectSection(SolutionItems) = preProject
-		TR.EDocumentEndpoint\.github\dependabot.yml = TR.EDocumentEndpoint\.github\dependabot.yml
-		TR.EDocumentEndpoint\.github\release-drafter.yml = TR.EDocumentEndpoint\.github\release-drafter.yml
+		\.github\dependabot.yml = \.github\dependabot.yml
+		\.github\release-drafter.yml = \.github\release-drafter.yml
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "workflows", "workflows", "{841C67EF-BBB2-4730-8E29-22FF3FD54306}"
 	ProjectSection(SolutionItems) = preProject
-		TR.EDocumentEndpoint\.github\workflows\build.yml = TR.EDocumentEndpoint\.github\workflows\build.yml
-		TR.EDocumentEndpoint\.github\workflows\codeql-analysis.yml = TR.EDocumentEndpoint\.github\workflows\codeql-analysis.yml
-		TR.EDocumentEndpoint\.github\workflows\release-drafter.yml = TR.EDocumentEndpoint\.github\workflows\release-drafter.yml
+		\.github\workflows\build.yml = \.github\workflows\build.yml
+		\.github\workflows\codeql-analysis.yml = \.github\workflows\codeql-analysis.yml
+		\.github\workflows\release-drafter.yml = \.github\workflows\release-drafter.yml
 	EndProjectSection
 EndProject
 Global
