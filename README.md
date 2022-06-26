@@ -1,4 +1,4 @@
-![icon](Images/icon.png)
+![icon](Images/Icon.png)
 
 # TR.EDocumentEndpoint
 
